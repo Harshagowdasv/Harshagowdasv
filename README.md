@@ -10,7 +10,7 @@ Diving deeper into **Three.js** for 3D web applications, and expanding my expert
 Projects focused on **3D modeling**, **web-based 3D viewers**, and **AI chatbots**. If you're working on something similar or have an idea in mind, let's connect!
 
 📫 **How to Reach Me:**  
-Feel free to reach out via [LinkedIn](www.linkedin.com/in/harsha-gowda-sv-9a3548285) 
+Feel free to reach out via [LinkedIn]([www.linkedin.com/in/harsha-gowda-sv-9a3548285](https://www.linkedin.com/in/harsha-gowda-sv-9a3548285/)) 
 
 😄 **Pronouns:**  
 He/Him
