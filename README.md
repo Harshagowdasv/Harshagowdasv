@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm Harsha Gowda SV</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- 🌟 Harsha Gowda SV — GitHub Profile README 🌟 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshagowdasv&label=Profile%20views&color=0e75b6&style=flat" alt="harshagowdasv" /> </p>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0a66c2;">Harsha Gowda SV</span></h1>
+<h3 align="center">🚀 Passionate Software Engineer | Full Stack Developer | DSA Learner | 3D Creator</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshagowdasv" alt="harshagowdasv" /></a> </p>
-
-- 🌱 I’m currently learning **🎓 B.E CSE 4th Semester**
-
-- 📫 How to reach me **harshagowdasv02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/harsha-gowda-sv-9a3548285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harsha-gowda-sv-9a3548285" height="30" width="40" /></a>
-<a href="https://instagram.com/harsha_gowda_sv_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha_gowda_sv_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harshagowdasv02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshagowdasv02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gtidopgndn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gtidopgndn" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshagowdasv&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagowdasv&show_icons=true&locale=en&layout=compact" alt="harshagowdasv" /></p>
+### 💫 About Me  
+- 🎓 **B.E CSE 4th Semester Student**  
+- 💡 Currently mastering **DSA (C++)**, **MERN Stack**, and **System Design**  
+- 🌱 Focused on becoming a **Software Development Engineer (SDE)**  
+- 🧠 Building projects like **3D Medicinal Plants**, **Jeevadhatu**, and **AI-integrated full-stack apps**  
+- 💌 Reach me at **harshagowdasv02@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagowdasv&" alt="harshagowdasv" /></p>
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/harsha-gowda-sv-9a3548285" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/harsha_gowda_sv_02" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://leetcode.com/gtidopgndn" target="blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/harshagowdasv02" target="blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,php,bootstrap,git,github,figma,blender" /><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshagowdasv&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshagowdasv&layout=compact&theme=react&hide_border=true" height="180" />
+</p>
+
+---
+
+### 🔥 Streak & Achievements  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshagowdasv&theme=react&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshagowdasv&theme=tokyonight&margin-w=15" alt="trophies" />
+</p>
+
+---
+
+### 💬 Quote That Keeps Me Going  
+> _"Focus on growth, not speed. Even the sun takes its time to rise, but when it does, it lights up the whole world."_ ☀️
+
+---
+
+### 🧩 Current Focus  
+🚀 Leveling up daily in  
+- **DSA** → LeetCode & GFG  
+- **Full Stack** → React + Node + MongoDB  
+- **GitHub Projects** → Building strong open-source portfolio  
+
+---
+
+<h3 align="center">✨ Let’s Build. Learn. Grow. Together. ✨</h3>
+
+---
+
