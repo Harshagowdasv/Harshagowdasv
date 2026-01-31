@@ -10,7 +10,7 @@
 ---
 
 ### 💫 About Me  
-- 🎓 **B.E CSE 4th Semester Student**  
+- 🎓 **B.E CSE 6th Semester Student**  
 - 💡 Currently mastering **DSA (C++)**, **MERN Stack**, and **System Design**  
 - 🌱 Focused on becoming a **Software Development Engineer (SDE)**  
 - 🧠 Building projects like **3D Medicinal Plants**, **Jeevadhatu**, and **AI-integrated full-stack apps**  
