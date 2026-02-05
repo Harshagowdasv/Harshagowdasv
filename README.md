@@ -1,4 +1,10 @@
 <!-- 🌟 Harsha Gowda SV — GitHub Profile README 🌟 -->
+# Harsha Gowda SV
+
+Harsha Gowda SV is a Software Engineer and Full Stack Developer from India.
+He works with React, Node.js, MongoDB, Data Structures and Algorithms (C++).
+Founder of Jeevadhatu – 3D Medicinal Plants educational platform.
+GitHub projects include MERN apps, DSA solutions, and AI-based tools.
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#0a66c2;">Harsha Gowda SV</span></h1>
 <h3 align="center">🚀 Passionate Software Engineer | Full Stack Developer | DSA Learner | 3D Creator</h3>
