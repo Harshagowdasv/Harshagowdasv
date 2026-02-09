@@ -1,88 +1,81 @@
 <!-- 🌟 Harsha Gowda SV — GitHub Profile README 🌟 -->
-# Harsha Gowda SV
-
-Harsha Gowda SV is a Software Engineer and Full Stack Developer from India.
-He works with React, Node.js, MongoDB, Data Structures and Algorithms (C++).
-Founder of Jeevadhatu – 3D Medicinal Plants educational platform.
-GitHub projects include MERN apps, DSA solutions, and AI-based tools.
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#0a66c2;">Harsha Gowda SV</span></h1>
-<h3 align="center">🚀 Passionate Software Engineer | Full Stack Developer | DSA Learner | 3D Creator</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer | DSA Learner | 3D Creator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshagowdasv&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=harshagowdasv&label=Profile%20views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
 
-### 💫 About Me  
-- 🎓 **B.E CSE 6th Semester Student**  
-- 💡 Currently mastering **DSA (C++)**, **MERN Stack**, and **System Design**  
-- 🌱 Focused on becoming a **Software Development Engineer (SDE)**  
-- 🧠 Building projects like **3D Medicinal Plants**, **Jeevadhatu**, and **AI-integrated full-stack apps**  
-- 💌 Reach me at **harshagowdasv02@gmail.com**  
+## 💫 About Me  
+- 🎓 **B.E CSE – 6th Semester Student (India)**  
+- 💡 Strong in **DSA (C++)**, **MERN Stack**, and **Problem Solving**  
+- 🌱 Preparing for **SDE roles** with daily coding & projects  
+- 🧠 Founder of **Jeevadhatu** – 3D Medicinal Plants educational platform  
+- 🔬 Building **AI-powered full-stack & interview analysis tools**  
+- 💌 Reach me: **harshagowdasv02@gmail.com**
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/harsha-gowda-sv-9a3548285" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/harsha-gowda-sv-9a3548285">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/harsha_gowda_sv_02" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://instagram.com/harsha_gowda_sv_02">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://leetcode.com/gtidopgndn" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <a href="https://leetcode.com/gtidopgndn">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/harshagowdasv02" target="blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  <a href="https://www.hackerrank.com/harshagowdasv02">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Languages & Tools  
+## ⚙️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,php,bootstrap,git,github,figma,blender" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,php,bootstrap,git,github,figma,blender" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshagowdasv&show_icons=true&theme=react&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshagowdasv&layout=compact&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshagowdasv&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshagowdasv&layout=compact&theme=react&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🔥 Streak & Achievements  
+## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshagowdasv&theme=react&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshagowdasv&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshagowdasv&theme=tokyonight&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshagowdasv&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
 
-### 💬 Quote That Keeps Me Going  
+## 🧩 Current Focus  
+🚀 Daily improvement in  
+- **DSA** → LeetCode & GFG  
+- **Full Stack** → React + Node + MongoDB  
+- **GitHub** → Consistent commits & meaningful projects  
+
+---
+
+### 💬 Quote That Drives Me  
 > _"Focus on growth, not speed. Even the sun takes its time to rise, but when it does, it lights up the whole world."_ ☀️
 
 ---
 
-### 🧩 Current Focus  
-🚀 Leveling up daily in  
-- **DSA** → LeetCode & GFG  
-- **Full Stack** → React + Node + MongoDB  
-- **GitHub Projects** → Building strong open-source portfolio  
-
----
-
 <h3 align="center">✨ Let’s Build. Learn. Grow. Together. ✨</h3>
-
----
-
