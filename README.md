@@ -150,7 +150,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshagowdas
 
 ---
 
-# 🐍 Contribution Snake (Animated)
+# 🐍 Contribution
 
 > **Requires GitHub Actions setup — see note at the bottom.**
 
